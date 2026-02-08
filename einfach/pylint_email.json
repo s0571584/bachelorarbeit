@@ -1,0 +1,15 @@
+[
+    {
+        "type": "warning",
+        "module": "email_validator",
+        "obj": "validate_email",
+        "line": 8,
+        "column": 19,
+        "endLine": 8,
+        "endColumn": 24,
+        "path": "email_validator.py",
+        "symbol": "redefined-outer-name",
+        "message": "Redefining name 'email' from outer scope (line 42)",
+        "message-id": "W0621"
+    }
+]
